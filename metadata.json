@@ -1,0 +1,6 @@
+{
+  "name": "TYPEFLOW",
+  "description": "A high-performance Typing Performance Tracker featuring 100 progressive difficulty levels across Time, Words, Quote, and Code modes, real-time multiplayer races, live telemetry graphs, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
